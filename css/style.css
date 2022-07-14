@@ -395,7 +395,7 @@ img{
 /* HOME */
 .home__container{
     gap: 1rem;
-    min-height: 100vh;
+    min-height: 90vh;
 }
 
 .home__content{
