@@ -34,6 +34,12 @@ docker run -d -p 8080:80 pranjalbarnwal/dockfolio
 > NOTE: if you're running Docker on server, then replace localhost above with your ip address
 ex: `http://54.80.107.150:8080`
 
+## Build process
+<img src="https://raw.githubusercontent.com/pranjal-barnwal/dockfolio/main/res/blog.png" alt="Guide to Creating and Sharing Docker Image | Dockfolio | Pranjal Kumar | pranjalbarnwal" width="600" />
+
+[Guide to Creating and Sharing Docker Image](https://pranjal-barnwal.hashnode.dev/dockfolio-unveiled-comprehensive-guide-to-creating-and-sharing-docker-image)
+
+
 ## License
 [**MIT License**](https://github.com/pranjal-barnwal/dockfolio/blob/main/license)
 
