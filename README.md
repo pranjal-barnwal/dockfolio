@@ -1,5 +1,5 @@
 # Dockfolio
-<img src="./res/seo.png" alt="Dockfolio | Pranjal Kumar | pranjalbarnwal" width="600" />
+<img src="https://raw.githubusercontent.com/pranjal-barnwal/dockfolio/main/res/seo.png" alt="Dockfolio | Pranjal Kumar | pranjalbarnwal" width="600" />
 
 
 [![https://hub.docker.com/u/pranjalbarnwal](https://forthebadge.com/images/badges/built-with-love.svg)](https://hub.docker.com/u/pranjalbarnwal) &nbsp;
@@ -35,9 +35,11 @@ docker run -d -p 8080:80 pranjalbarnwal/dockfolio
 ex: `http://54.80.107.150:8080`
 
 ## Build process
+<a href="https://pranjal-barnwal.hashnode.dev/dockfolio-unveiled-comprehensive-guide-to-creating-and-sharing-docker-image" alt="Dockfolio Unveiled: Comprehensive Guide to Creating and Sharing Docker Image">
 <img src="https://raw.githubusercontent.com/pranjal-barnwal/dockfolio/main/res/blog.png" alt="Guide to Creating and Sharing Docker Image | Dockfolio | Pranjal Kumar | pranjalbarnwal" width="600" />
+</a>
 
-[Guide to Creating and Sharing Docker Image](https://pranjal-barnwal.hashnode.dev/dockfolio-unveiled-comprehensive-guide-to-creating-and-sharing-docker-image)
+[**Guide to Creating and Sharing Docker Image**](https://pranjal-barnwal.hashnode.dev/dockfolio-unveiled-comprehensive-guide-to-creating-and-sharing-docker-image)
 
 
 ## License
