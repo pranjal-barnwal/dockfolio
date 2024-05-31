@@ -1,5 +1,5 @@
 # Dockfolio
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702367398185/496e4ee7-b075-4a80-8a65-53ce6fef8898.png?auto=compress,format&format=webp" alt="Dockfolio | Pranjal Kumar | pranjalbarnwal" width="600" />
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702367398185/496e4ee7-b075-4a80-8a65-53ce6fef8898.png?auto=compress,format&format=webp" alt="Dockfolio | Pranjal Kumar | pranjalbarnwal: pranjal-barnwal | Pranjal Kumar, Hazaribag Jharkhand" width="600" />
 
 
 [![https://hub.docker.com/u/pranjalbarnwal](https://forthebadge.com/images/badges/built-with-love.svg)](https://hub.docker.com/u/pranjalbarnwal) &nbsp;
@@ -36,7 +36,7 @@ ex: `http://54.80.107.150:8080`
 
 ## Build process
 <a href="https://pranjal-barnwal.hashnode.dev/dockfolio-unveiled-comprehensive-guide-to-creating-and-sharing-docker-image" alt="Dockfolio Unveiled: Comprehensive Guide to Creating and Sharing Docker Image">
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702880321094/8396409a-8184-4377-bcf7-2176ae96902d.png" alt="Guide to Creating and Sharing Docker Image | Dockfolio | Pranjal Kumar | pranjalbarnwal" width="600" />
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1702880321094/8396409a-8184-4377-bcf7-2176ae96902d.png" alt="Guide to Creating and Sharing Docker Image | Dockfolio | Pranjal Kumar | pranjalbarnwal: pranjal-barnwal | Pranjal Kumar, Hazaribag Jharkhand" width="600" />
 </a>
 
 [**Guide to Creating and Sharing Docker Image**](https://pranjal-barnwal.hashnode.dev/dockfolio-unveiled-comprehensive-guide-to-creating-and-sharing-docker-image)
@@ -49,4 +49,4 @@ ex: `http://54.80.107.150:8080`
 ## **Show your support**
 Hit the ⭐ if you liked this website!
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="80" alt="Cute Cat: pranjal-barnwal | Pranjal Kumar, Hazaribag Jharkhand">
